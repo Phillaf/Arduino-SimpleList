@@ -1,6 +1,5 @@
-ArduLibraries
-=============
+# SimpleList
 
-Useful libraries for Arduino
-
-You can download single libraries from "Releases" folder by clicking in the library and then clicking "raw".
+Forked for the sake of using it as a git submodule  
+Original repo: https://github.com/blackhack/ArduLibraries  
+Doc: https://github.com/blackhack/ArduLibraries/tree/master/SimpleList/examples
